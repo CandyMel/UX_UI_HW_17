@@ -1,0 +1,118 @@
+/* .navbar {
+  display: inline-flex !important;
+} */
+
+.nav-item {
+  display: inline-flex !important;
+  justify-content: space-between !important;
+  /* size: 300px !important; */
+}
+
+.hero {
+  display: inline-flex;
+  background: #c3b9cc;
+  background: -webkit-linear-gradient(171deg, #d8c4ea 0%, #ffffff 100%);
+  /* background: linear-gradient(171deg, #c3b9cc 0%, #ffffff 100%); */
+}
+
+.heroContainer {
+  background: linear-gradient(75deg, #e9ced9, #ead2db);
+}
+
+
+body {
+  font-family: 'Farsan' !important;
+}
+
+/* .col-md-6 {
+  padding: 100px !important;
+} */
+
+h3 {
+  color: grey;
+  text-transform: uppercase;
+
+}
+
+h1 {
+  font-family: 'Petit Formal Script' !important;
+}
+
+p {
+  font-family: 'Farsan' !important;
+}
+
+p2{ font-family:'Farsan' !important;
+  font-size: 20px;
+
+}
+.btn {
+  border-radius: 55px !important;
+  background-color: #a66a8a !important;
+  font-family: 'Farsan', cursive;
+  color: white !important;
+}
+
+.btn:hover {
+  background-color: #f6cbd4 !important;
+}
+
+/* .rightContent {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding: 20px;
+  }
+  
+  .leftImage {
+    padding: 50px;
+  }  */
+
+.nav-item a {
+  padding: 10px
+}
+
+
+<style>.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #c3b9cc;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-family: waterbrush;
+  font-size: 20px;
+}
+
+
+/* p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+} */
+
+/* html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+} */
+
+/* Other Classes for Page Styling */
+
+body {
+  background: #c3b9cc;
+  background: -webkit-linear-gradient(171deg, #c3b9cc 0%, #ffffff 100%);
+}
