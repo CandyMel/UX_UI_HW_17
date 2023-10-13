@@ -11,19 +11,20 @@
 .hero {
   display: inline-flex;
   background: #c3b9cc;
-  background: -webkit-linear-gradient(171deg, #d8c4ea 0%, #ffffff 100%);
+  background: -webkit-linear-gradient(171deg, #cebbdf 0%, #ffffff 100%);
   /* background: linear-gradient(171deg, #c3b9cc 0%, #ffffff 100%); */
 }
 
 .heroContainer {
-  background: linear-gradient(75deg, #e9ced9, #ead2db);
+  background: linear-gradient(75deg, #c8bdc1, #af9dbe);
 }
-
+.col {
+  font-size: 20px;
+}
 
 body {
   font-family: 'Farsan' !important;
 }
-
 /* .col-md-6 {
   padding: 100px !important;
 } */
